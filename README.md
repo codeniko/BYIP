@@ -7,4 +7,4 @@ This was created when I went over to my home country to visit my grandmother. I 
 
 The reason behind the creation of this was to record the dynamically changing IP so that I would be able to VNC over and fix any issues with the laptop (software wise, of course), perform regular maintainance (Windows OS), and introduce more control from the USA. The dynamic IP in Belarus changes extremely often and I would like to always have access to the latest one.
 
-TODO: C implementation
+TODO: C implementation for WINDOWS
