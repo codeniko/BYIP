@@ -17,8 +17,8 @@ namespace BYIP
                 try
                 {
 					//Attempt to record a new IP (if changed)
-					String url = "http://www.example.com/by.php?write" 
-                    String src = curl.get(url);
+		    		String url = "http://www.example.com/by.php?write";
+                	String src = curl.get(url);
                 }
                 catch (Exception e)
                 {
